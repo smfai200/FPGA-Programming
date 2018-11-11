@@ -1,0 +1,8 @@
+V3 7
+FL $XILINX/verilog/src/glbl.v 2006/05/17.12:09:08 I.31
+MO isim_temp/glbl       FL $XILINX/verilog/src/glbl.v
+FL $XILINX/bin/nt/upcounter/upCounter.v 2018/11/11.17:09:48 I.31
+MO isim_temp/upCounter  FL $XILINX/bin/nt/upcounter/upCounter.v
+FL $XILINX/bin/nt/upcounter/testforUpCounter.v 2018/11/11.17:09:03 I.31
+MO isim_temp/testforUpCounter_v FL $XILINX/bin/nt/upcounter/testforUpCounter.v \
+      MI upCounter

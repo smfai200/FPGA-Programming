@@ -1,0 +1,84 @@
+ command line:
+   ./testforUpCounter_v_isim_beh.exe
+     -intstyle  ise
+     -ipchost  localhost
+     -ipcport  50063
+
+Sun Nov 11 17:10:21 2018
+
+Total Line Count = 55
+
+ Elaboration time 0.015625 sec.
+
+ Estimate current memory usage 73.6297 Meg. 
+
+ Total signals 12
+ Total nets 14
+ Total signal drivers 6
+ Total blocks 3
+ Total primitive blocks 2
+ Total processes 9
+ntrace select -o on -n /testforUpCounter_v/Num_16OutputLine 
+ntrace select -o on -n /testforUpCounter_v/Num_16OutputLine 
+ntrace select -o on -n /testforUpCounter_v/Num_16OutputLine 
+ntrace select -o on -n /testforUpCounter_v/Num_16OutputLine 
+ntrace select -o on -n /testforUpCounter_v/Num_16OutputLine 
+ntrace select -o on -n /testforUpCounter_v/clock 
+ntrace select -o on -n /testforUpCounter_v/reset 
+ntrace start 
+run 1000 ns 
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+run 1000 ns 
+run 1000 ns 
+run 1000 ns 
+run 1000 ns 
+run 1000 ns 
+run all 
+restart
+run all 
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+run 1000 ns 
+restart
+run all 
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+run 100 ns 
+run 100 ns 
+run 100 ns 
+run 100 ns 
+run 100 ns 
+run 100 ns 
+restart
+run all 
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+run 100 ns 
+run 100 ns 
+run 100 ns 
+run 100 ns 
+run 100 ns 
+run 100 ns 
+run 100 ns 
+run 100 ns 
+run 100 ns 
+run 100 ns 
+run 100 ns 
+run 100 ns 
+restart
+run 100 ns 
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+run 100 ns 
+run 100 ns 
+run 100 ns 
+run 100 ns 
+run 100 ns 
+run 100 ns 
+run 100 ns 
+run 100 ns 
+restart
+run all 
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.

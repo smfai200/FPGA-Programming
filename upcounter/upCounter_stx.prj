@@ -1,0 +1,2 @@
+verilog isim_temp "upCounter.v"
+verilog isim_temp "E:/Xilinx/verilog/src/glbl.v"

@@ -1,0 +1,7 @@
+xst -ise "E:/Xilinx/bin/nt/9bitCounter/9bitCounter.ise" -intstyle ise -ifn Counter.xst -ofn Counter.syr
+xst -ise "E:/Xilinx/bin/nt/9bitCounter/9bitCounter.ise" -intstyle ise -ifn Counter.xst -ofn Counter.syr
+xst -ise "E:/Xilinx/bin/nt/9bitCounter/9bitCounter.ise" -intstyle ise -ifn Counter.xst -ofn Counter.syr
+xst -ise "E:/Xilinx/bin/nt/9bitCounter/9bitCounter.ise" -intstyle ise -ifn Counter.xst -ofn Counter.syr
+xst -ise "E:/Xilinx/bin/nt/9bitCounter/9bitCounter.ise" -intstyle ise -ifn Counter.xst -ofn Counter.syr
+xst -ise "E:/Xilinx/bin/nt/9bitCounter/9bitCounter.ise" -intstyle ise -ifn Counter.xst -ofn Counter.syr
+xst -ise "E:/Xilinx/bin/nt/9bitCounter/9bitCounter.ise" -intstyle ise -ifn Counter.xst -ofn Counter.syr
